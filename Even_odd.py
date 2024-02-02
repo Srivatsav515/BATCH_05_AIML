@@ -1,4 +1,4 @@
-num = input("Enter a number: ")
+num = input()
 if num%2==0:
     print("The entered number is even")
 else:
